@@ -21,7 +21,7 @@ Getting started with the Tic Tac Toe Game is easy! Follow these simple steps:
 https://github.com/SaiBhavish/Masaiproject/blob/main/PROJECT.py
 2. ** Run the game **
 Make sure you have Python installed on your machine (preferably Python 3.x).
-if you don't have Python installed you can install it from python.org. 
+if you don't have Python installed you can install it from https://www.python.org/. 
  You can run the game by executing:
 https://github.com/SaiBhavish/Masaiproject/blob/main/PROJECT.py
 
